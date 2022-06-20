@@ -27,7 +27,13 @@
             <artifactId>java-client</artifactId>
             <version>8.1.1</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/io.appium/java-client -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
+
 
     </dependencies>
 
